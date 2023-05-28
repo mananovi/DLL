@@ -1,0 +1,5 @@
+﻿  GeometricCurvesLibrary.cpp
+D:\Documents\Программы и компоненты Visual Studio\CurvesDLL\CurvesDLL\GeometricCurvesLibrary.h(23,16): warning C4251: GCurLib::Error::m_mess: class "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" должен иметь dll-интерфейс для использования клиентами class "GCurLib::Error"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\xstring(4871): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+     Создается библиотека D:\Documents\Программы и компоненты Visual Studio\CurvesDLL\Debug\CurvesDLL.lib и объект D:\Documents\Программы и компоненты Visual Studio\CurvesDLL\Debug\CurvesDLL.exp
+  CurvesDLL.vcxproj -> D:\Documents\Программы и компоненты Visual Studio\CurvesDLL\Debug\CurvesDLL.dll
